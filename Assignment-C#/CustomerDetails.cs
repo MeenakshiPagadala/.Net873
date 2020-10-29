@@ -32,7 +32,7 @@ namespace Assignment
         static void Main()
         {
             Customer cd = new Customer();
-            Customer cd1 = new Customer(101,"Fawad",22,"985674312","Kolkata");
+            Customer cd1 = new Customer(102,"Krishna",21,"9335897412","texas");
             cd1.DisplayCustomer();
             Console.Read();
         }
