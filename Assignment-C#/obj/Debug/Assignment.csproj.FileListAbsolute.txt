@@ -1,0 +1,7 @@
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\bin\Debug\Assignment.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\obj\Debug\Assignment.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\CsharpDay3\Assignment\obj\Debug\Assignment.pdb
