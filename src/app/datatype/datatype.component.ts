@@ -19,11 +19,11 @@ export class DatatypeComponent implements OnInit {
 
   constructor() {
     this.age=25;
-    this.hobbies=["playing","singing"];
+    this.hobbies=["reading","piano"];
     this.marks=[89,90,78];
     this.istrue=false;
-    this.tupleval=["shiva",25,true];
-    this.student={fathername:"kumar",city:"mumbai"};
+    this.tupleval=["Murugan",25,true];
+    this.student={fathername:"kumar",city:"chennai"};
     this.dynamicvalue="hi";
     this.dynamicvalue=true;
    }
