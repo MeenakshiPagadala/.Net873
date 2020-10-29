@@ -1,0 +1,31 @@
+<p>assignment works!</p>
+
+
+<div class="panel panel-success">
+    <div class="panel-heading">
+        <h3 class="panel-title">STUDENT FIRST SEMESTER STATUS</h3>
+     </div>
+     <table class="table">
+         <tr>
+             <th>Student ID</th>
+             <th>Name</th>
+             <th>First Semester Status</th>
+             <th>Image</th>
+         </tr>
+         <tbody *ngFor="let stu of student">
+                <td>{{stu.ID}}</td>
+                <td>{{stu.Name}}</td>
+                <td>{{stu.SemesterStatus}}</td>
+                <td><img src=stu.img width=20px></td>
+        </tbody>
+     </table>
+</div>
+
+<hr>
+<h3>Students who Cleared the First Semester</h3>
+<div *ngFor="let s of student">
+    <div *ngIf="s.SemesterStatus==='True'">
+        <li>{{s.Name}}</li>
+    </div>
+</div>
+
